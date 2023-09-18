@@ -2,8 +2,7 @@
 
 ### Bonjour à tous 👋
 
-La direction générale des Finances publiques ("DGFiP") organise un hackathon qui se tiendra les 1 et 2 décembre 2022.
-
+La direction générale des Finances publiques ("DGFiP") organise un hackathon qui se tiendra les 24 et 25 novembre 2023.
 ___
 
 # I. Qui sommes-nous ?
@@ -21,46 +20,98 @@ ___
 
 # II. Appel à projets
 
-Les participants devront par équipes de 5 (constituées le jour-même ou à l'avance) réaliser l'un des 2 défis suivants:
+Les participants devront par équipes de 5 (constituées le jour-même ou à l'avance) réaliser l'un des 3 défis suivants:
 
-**Défi 1** - Visualisation des transactions crypto à crypto via une base de données de type graphe :
+**Défi 1** - Présenter le panier de recettes d’une collectivité du bloc communal et ses enjeux 
 
-> Le développement récent des actifs numériques s’est en partie accompagné, ces dernières années, d’une augmentation des manquements délibérés de déclaration des revenus issus des nombreux usages permis par les technologies sous-jacentes (cessions occasionnelles, trading, staking, minage...etc).
->
->À terme, à partir d’une adresse publique cryptographique, utilisée sur un registre public (une blockchain comme Bitcoin ou Ethereum), et dont ils ont déjà connaissance, les services du Contrôle Fiscal devront :
->- appréhender l’ensemble des transactions entre cette adresse publique et d’autres adresses publiques cryptographiques formant un ensemble cohérent
->- identifier ensuite les entités qui effectuent ces transactions sous le pseudonymat des adresses publiques cryptographiques de chaque blockchain utilisée.
->
->Commande :  
-> En utilisant l’outil Neo4j, vous représenterez sous la forme d’un graphe l’ensemble des adresses publiques cryptographiques d’un registre public distribué choisi [Bitcoin / Ethereum…]
->
->Plus précisément, sur l’écran affiché devant lui, un utilisateur doit pouvoir facilement:  
->1. visualiser une adresse publique cryptographique, qui correspond à un nœud sur une base graphe, et à un point ou rond de couleur pour l’utilisateur « néophyte »
->2. visualiser une transaction entre deux adresses, chaque transaction correspondant à une relation dans une base graphe, et à un trait (fléché? Coloré ?) pour l’utilisateur « néophyte »
->3. augmenter ou diminuer le niveau de détail entre les nœuds et les relations
->4. identifier les nœuds ayant davantage de relations que les autres (taille plus importante ou couleur différente) à partir d’un seuil laissé à l’appréciation des participants
->
->Moteur de base graphe : utilisation de Neo4j ou, si nécessaire, d’une alternative (TigerGraph, etc.)
->
->Jeux de données proposés  : Extraits des registres publics Bitcoin & Ethereum. 
+Contexte:
+
+Les recettes de fonctionnement sont constituées en grande partie des recettes fiscales, mais aussi de recettes non fiscales (dotations État et produits des services et des domaines). Elles sont supportées par différents contributeurs (particuliers, professionnels, État). Elles évoluent par ailleurs dans le temps, notamment en raison des réformes de fiscalité locale (création d’un nouvel impôt, transfert d’un impôt d’une strate de collectivité à une autre, nouvel abattement/exonération) et des offres nouvelles de service public, notamment.
+
+Pour toutes ces raisons, il est important pour les collectivités d’avoir une visibilité sur leur panier de recettes. Cette visibilité permettrait de connaître plus en détail la manière dont est structuré celui-ci et de pouvoir en anticiper l’évolution. Cette visibilité permet ainsi à chaque collectivité de mieux connaître son territoire et de pouvoir adapter sa politique fiscale et non fiscale.
+
+Pour répondre à ce défi, il apparaît pertinent de vous interroger sur les points suivants : quel est le poids de chaque type de recettes dans le total des recettes ? Quel est le poids des compensations (allocation compensatrice) ? Quelle est la part des impôts payés par les particuliers et les professionnels dans le panier des recettes fiscales ? 
+
+Type de collectivités concernées : communes ou EPCI (établissement public de coopération intercommunale) à fiscalité propre.
+
+Commande : 
+
+En utilisant l’outil Tableau, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI) , sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous établirez un outil permettant une visualisation dynamique (structure globale, avec différentes profondeurs de visualisation en fonction du type de recettes et du contributeur) sur la structure du panier de recettes de fonctionnement de chaque commune métropolitaine et ultra-marine, selon sa typologie.
+
+Jeux de données proposés (liste non exhaustive) :
+
+- fichiers REI disponibles par millésime (données de fiscalité directe locale : base, taux et produit) ;
+- balances comptables disponibles par millésime (produits de fiscalité, dotations et produits des services et des domaines) ;
+- dotations État (disponibles sous :http://www.dotations-dgcl.interieur.gouv.fr);
+- autres données disponibles en open-data.
 
 
+**Défi 2** - Prévoir les recettes des collectivités territoriales - bloc communal, départements, régions 
+
+Contexte :
+
+Les collectivités locales interviennent dans de nombreux aspects de la vie quotidienne. Elles disposent pour cela de ressources leur permettant d’assurer les missions dont elles ont la charge. Les recettes de fonctionnement sont constituées en grande partie des recettes fiscales, mais aussi de recettes non fiscales (dotations État et produits des services et des domaines).
+
+Afin d’anticiper leurs marges de manœuvre budgétaires pour le futur, il est nécessaire pour les collectivités d’avoir une visibilité sur l’évolution de leurs recettes.
+
+Le niveau de ces recettes dépend de la politique fiscale mise en œuvre par la collectivité (retracée notamment par les taux d’imposition votés, mais également par ses décisions en matière d’exonérations ou abattements facultatifs de fiscalité), mais aussi de l’évolution des dotations État et de la politique de tarification des services adoptée par la collectivité. Il est conditionné à de nombreux facteurs socio-économiques (niveau de ressources des ménages, tissu économique, démographie, situation géographique…) et conjoncturels (par exemple l’inflation) qui ont une incidence sur chaque composante de ces recettes.
+
+Périmètre géographique de la commande : France entière
+
+Strates de collectivités concernées : bloc communal : communes et EPCI (établissement public de coopération intercommunale) à fiscalité propre, départements et régions.
+
+Commande : 
+En utilisant l’outil Tableau, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI), sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous construirez un outil permettant à une collectivité de disposer d’une prévision de son panier de recettes.
+Il conviendra de croiser ces données avec d’autres sources de données publiques en open data que vous jugerez pertinentes, comme les données socio-économiques des collectivités, des données relatives à la conjoncture économique, etc.
+Vous documenterez de manière succincte votre approche en indiquant sur un format A4 : l’approche, les sources de données et les paramètres retenus.
 
 
+Jeux de données proposées (liste non exhaustive) :  
+- fichiers REI disponibles par millésime (données de fiscalité directe locale : base, taux et produit) ;
+- balances comptables disponibles par millésime (produits de fiscalité, dotations et produits des services et des domaines) ;
+- dotations État (disponibles sous :http://www.dotations-dgcl.interieur.gouv.fr);
+- données INSEE ;
+- autres.
+
+**Défi 3** - Mesurer l'attractivité fiscale des territoires pour les entreprises
+
+Contexte : 
+
+La décision d’implantation d’une entreprise repose sur de multiples facteurs. Une pression fiscale mesurée est un facteur qui peut contribuer à l’attractivité d’un territoire. Les entreprises installées sur un territoire peuvent être assujetties à différentes catégories d’impôts locaux (cotisation foncière des entreprises, taxe foncière sur les propriétés bâties ou non bâties, etc.) en fonction de leur situation, de leur activité ou encore de la valeur de leurs actifs). La fiscalité locale supportée par les entreprises s’appuie sur des taux votés par la collectivité, la base d’imposition ou encore l’application facultative d’exonérations décidées par les collectivités et auxquelles les entreprises pourraient prétendre.
+
+Selon les territoires, la fiscalité économique locale relève soit conjointement de la commune et l’intercommunalité soit de la seule intercommunalité (en fonction du régime fiscal de l’intercommunalité).
+
+Périmètre géographique de la commande : national, régional ou départemental
+
+Collectivités concernées : communes et EPCI (établissement public de coopération intercommunale) à fiscalité propre
+
+Commande : 
+
+En utilisant l’outil Tableau et le fichier de recensement des éléments d’imposition (REI), et en vous appuyant sur le site « fiscalité locale des entreprises », vous établirez un outil permettant de comparer les collectivités entre elles (taux, base, exonérations) et de mesurer ainsi l’attractivité de chaque territoire. Cet outil devra s’appuyer sur des data-visualisations sous forme de tableaux de bord d’indicateurs, de représentations graphiques ou de cartographie.
+
+Vous pourrez croiser ces données avec d’autres données publiques en open data ou jeux de données communiquées pour le hackathon, relatives notamment aux délibérations des collectivités (instituant des exonérations ou abattements facultatives) ou encore aux valeurs locatives des locaux professionnels.
+
+Vous documenterez de manière succincte votre approche en indiquant sur un format A4 : l’approche, les sources de données, les critères retenus.
+
+Jeux de données proposés (liste non exhaustive) :
+- fichier REI ;
+- grille tarifaire des valeurs locatives des locaux professionnels (https://www.impots.gouv.fr/revision-des-valeurs-locative-des-locaux-professionnels);
+- délibérations de fiscalité directe locale des communes et des groupements à fiscalité propre (sur le site data.economie.gouv.fr) ;
+- autres.
 ___
 
 # III. Calendrier et inscription
 
 ### A. Calendrier détaillé
 
-- Inscriptions : jusqu’au 18 novembre 2022
-- Webinaire d'informations sur le déroulé des défis : 25 novembre 2022 18h (en ligne)
-- Hackathon : 1 et 2 décembre 2022
-- Délibérations du jury et désignation des gagnants : 2 décembre 2022
+- Inscriptions : ?
+- Webinaire d'informations sur le déroulé des défis : ?
+- Hackathon : 24 et 25 novembre 2023
+- Délibérations du jury et désignation des gagnants : 25 novembre 2023
 
 ### B. Inscription
 
-Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 18 novembre 2022. **Places limitées à 50 participants.**
+Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le ?. **Places limitées à 50 participants.**
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
@@ -105,18 +156,15 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 
 ### B. Jury 
 
-- **Gilles Tauzin** - Délégué à la Transformation Numérique - DGFiP 
-*Président du jury*
+- **Francis Bach** - Membre du conseil scientifique du numérique
+
+- **Fabien Moutarde** - Directeur du centre de robotique de Mines Paris-PSL
 
 - **Su Yang** - Responsable du Pôle Données - DTNum/DGFiP
 
 - **Frédéric Iannuci** - Chef du service du contrôle fiscal
 
 - **Philippe-Emmanuel de Beer** - Directeur de la direction nationale d’enquête fiscal
-
-- **Pierre Boyer** - Professeur à l’école polytechnique–CREST
-
-- **Natkamon Tovanitch** - Post-doctorant au sein de la chaire blockchain et expert  visualisation blockchain à l’école polytechnique
 
 
 ### C. Critères d'évaluation
