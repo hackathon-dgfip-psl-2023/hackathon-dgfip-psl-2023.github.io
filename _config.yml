@@ -1,9 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
-title: Hackaton DGFiP 2022
+title: Hackaton DGFiP 2023
 logo: /docs/assets/images/logo_dgfip.svg
 logo_mefr: /docs/assets/images/logo_mefr.jpg
-description: Bienvenue sur la page de présentation du Hackaton de la DGFiP 2022
+description: Bienvenue sur la page de présentation du Hackaton de la DGFiP 2023
 
 tz: Europe/Paris
 encoding: UTF-8
