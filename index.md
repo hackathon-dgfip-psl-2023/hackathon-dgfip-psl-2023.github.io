@@ -9,7 +9,7 @@ ___
 
 La DGFiP participe à la gestion des Finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
 
-Elle est placée sous la tutelle du ministère de l'Économie, des Finances et de la Relance ("MEFR"). 
+Elle est placée sous la tutelle du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique ("MEFSIN"). 
 
 La Délégation à la Transformation Numérique (“DTNum”) mène la transformation numérique de la DGFiP. Une cinquantaine de personnes travaille au sein de trois pôles dédiés : Données (open data, datascience), Culture numérique, et Expérience utilisateur.
 
@@ -157,7 +157,6 @@ Pour vous inscrire, merci d'envoyer un message à l'adresse suivante => dtnum.co
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
-Pour s'inscrire:
 [https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr](https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr)
 
 ___
@@ -195,13 +194,14 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 
 ### B. Jury 
 
-- **Guillaume Robert** - Chef du service des gestions publiques locales, des activités bancaires et économiques de la DGFiP
+- **Esther Mac Namara** - Déléguée à la transformation numérique de la DGFiP
 
-- **Fabien Moutarde** - Directeur du centre de robotique de Mines Paris-PSL
+- **Guillaume Robert** - Chef du service des gestions publiques locales, des activités bancaires et économiques de la DGFiP
 
 - **Su Yang** - Responsable du Pôle Données - DTNum/DGFiP
 
-- **Esther Mac Namara ** - Déléguée à la transformation numérique de la DGFiP
+- **Fabien Moutarde** - Directeur du centre de robotique de Mines Paris-PSL
+
 
 
 ### C. Critères d'évaluation
@@ -281,7 +281,7 @@ L’Appel à Projet Hackathon est annoncé par l’envoi d’une présentation a
 
 #### 4.1 – Conditions d’inscription à l’appel à projet :
 
-L’appel à projet est ouvert à tous les étudiants étant inscrits à l’Institut Polytechnique de Paris pour l’année 2022/2023.   
+L’appel à projet est ouvert à tous les étudiants étant inscrits à l'un des établissements de l'Université PSL Paris pour l’année 2023/2024, et pourra être ouvert à d'autres établissements en fonction du nombre de participants.
 
 Les candidatures ne remplissant pas ces conditions pourront se voir proposer de concourir hors compétition.
 
