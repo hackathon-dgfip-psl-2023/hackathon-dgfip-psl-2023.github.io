@@ -157,7 +157,6 @@ Pour vous inscrire, merci d'envoyer un message à l'adresse suivante => dtnum.co
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
-[https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr](https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr)
 
 ___
 
