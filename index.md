@@ -153,7 +153,8 @@ ___
 
 ### B. Inscription
 
-Pour vous inscrire, merci d'envoyer un message à l'adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet "Inscription hackathon DGFiP 2023" et en précisant vos prénoms et noms dans le mail
+Pour vous inscrire, merci d'envoyer un message à l'adresse suivante [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr), avec en objet "Inscription hackathon DGFiP 2023" et en précisant vos prénoms et noms dans le mail
+
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
