@@ -146,15 +146,14 @@ ___
 
 ### A. Calendrier détaillé
 
-- Inscriptions : ?
-- Webinaire d'informations sur le déroulé des défis : ?
+- Inscriptions : 30 octobre 2023 - 22 novembre 2023
+- Webinaire d'informations sur le déroulé des défis : 17 novembre 2023 à 16h
 - Hackathon : 24 et 25 novembre 2023
 - Délibérations du jury et désignation des gagnants : 25 novembre 2023
 
 ### B. Inscription
 
-Pour vous inscrire, merci d'envoyer un message à l'adresse suivante [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr), avec en objet "Inscription hackathon DGFiP 2023" et en précisant vos prénoms et noms dans le mail
-
+Pour vous inscrire, merci d'envoyer un message à l'adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet "Inscription hackathon DGFiP 2023" et en précisant vos prénoms et noms dans le mail
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
@@ -197,6 +196,8 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 - **Esther Mac Namara** - Déléguée à la transformation numérique de la DGFiP
 
 - **Guillaume Robert** - Chef du service des gestions publiques locales, des activités bancaires et économiques de la DGFiP
+
+- **Olivier Touvenin** - Chef du service de la gestion fiscale de la DGFiP
 
 - **Su Yang** - Responsable du Pôle Données - DTNum/DGFiP
 
@@ -249,7 +250,7 @@ ___
 # V. Réglement et Contact   
 
 
-### RÈGLEMENT DE L’APPEL À PROJET HACKATHON DE LA DGFiP - Version au 14 octobre 2022
+### RÈGLEMENT DE L’APPEL À PROJET HACKATHON DE LA DGFiP - Version au 09 octobre 2023
    
 
 ### Préambule :
@@ -390,7 +391,7 @@ Répartition des lots : la responsabilité de la répartition des lots au sein d
 
 8.1 – Le participant s’engage à fournir, dans son formulaire d’inscription à l’appel à projet, des informations réelles et sérieuses le concernant.
 
-8.2 – Le participant s’engage à signer la charte du participant communiqué en annexe avant le début du hackathon 2022 et à respecter toutes les obligations décrites dans la charte susmentionnée.  
+8.2 – Le participant s’engage à signer la charte du participant communiqué en annexe avant le début du hackathon 2023 et à respecter toutes les obligations décrites dans la charte susmentionnée.  
 
 8.3 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Hackathon de la DGFiP.   
 
@@ -420,7 +421,7 @@ Il est rappelé qu’un logiciel se présente sous deux formes : un Code Source,
 
 Le droit d’auteur français protège le code source comme s’il s’agissait d’une œuvre littéraire. Toutefois c’est la manière de structurer le code source, telle qu’elle est matérialisée par une suite de signes, qui fera l’objet de la protection par le droit d’auteur, sachant que la fonctionnalité n’est pas protégeable ni protégée.    
 
-Les groupes participants à l’événement Hackathon 2022 resteront ainsi titulaires du code source qu’ils ont développé et jouiront de toutes les prérogatives qui y sont liées au niveau des droit moraux, conformément aux principes du Code de la Propriété Intellectuelle.    
+Les groupes participants à l’événement Hackathon 2023 resteront ainsi titulaires du code source qu’ils ont développé et jouiront de toutes les prérogatives qui y sont liées au niveau des droit moraux, conformément aux principes du Code de la Propriété Intellectuelle.    
 
 Néanmoins la DGFiP, dans un souci de contribution collective à l'esprit d'ouverture des données publiques, invite les participants à adopter une licence libre parmi les suivantes pour développer leur projet : _CeCILL 2.1 _Etalab 2.0    
 
