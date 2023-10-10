@@ -509,4 +509,4 @@ ___
 
 # VI. Charte du participant
 
-**Consulter la [Charte du participant](https://github.com/hackaton-dgfip-x-2022/hackaton-dgfip-x-2022.github.io/blob/master/Hackathon_Charte%20du%20participant-V1.odt?raw=true)**
+**Consulter la [Charte du participant](https://github.com/hackathon-dgfip-psl-2023/hackathon-dgfip-psl-2023.github.io/blob/2b683457ae0249f69d27cf92ae5073e03bd280ce/Hackathon_Charte%20du%20participant%202023.pdf)**
