@@ -1,15 +1,17 @@
 ![Logo du hackaton](/docs/assets/images/logo_psl.png)
 
-### Bonjour à tous 👋
+### Bonjour à toutes et à tous 👋
 
 La direction générale des Finances publiques ("DGFiP") organise un hackathon qui se tiendra les 24 et 25 novembre 2023.
 ___
 
 # I. Qui sommes-nous ?
 
-La DGFiP participe à la gestion des Finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
+La direction générale des Finances publiques (DGFiP) représente à la fois un service public enraciné dans l’histoire de l’État et une administration nouvelle issue de la fusion en 2008 de la direction générale des impôts et de la direction générale de la comptabilité publique.
 
-Elle est placée sous la tutelle du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique ("MEFSIN"). 
+Ses missions permettent à la fois de contribuer à la solidité financière des institutions publiques et de favoriser un environnement de confiance dans la société, l’économie et les territoires.
+
+Les services de la DGFiP sont présents sur l’ensemble du territoire, au plus près de ses usagers et de ses partenaires. Installés dans les centres des Finances publiques, ces services appartiennent à différentes catégories, qui reflètent la diversité des missions dans les domaines de la fiscalité et de les gestion publique exercées par la DGFiP et de ses publics.
 
 La Délégation à la Transformation Numérique (“DTNum”) mène la transformation numérique de la DGFiP. Une cinquantaine de personnes travaille au sein de trois pôles dédiés : Données (open data, datascience), Culture numérique, et Expérience utilisateur.
 
@@ -20,7 +22,7 @@ ___
 
 # II. Appel à projets
 
-Les participants devront par équipes de 5 (constituées le jour-même ou à l'avance) réaliser l'un des 3 défis suivants:
+Les participants devront s'organiser par équipes de 2 à 5 précisées lors de l'inscription (à défaut une équipe sera constituée avec les candidats seuls) réaliser l’un des 5 défis suivants::
 
 **Défi 1** - Présenter le panier de recettes d’une collectivité du bloc communal et ses enjeux 
 
@@ -116,7 +118,7 @@ En utilisant les bases de données publiques, financières et comptables, ainsi 
 Basée sur la géolocalisation, cette application permettra de représenter, de suivre, de valoriser et de prévoir les impacts de variation de taux de la CFE et/ou de l’IFER (sur N-1 et N-2) envisagés par la collectivité en matière budgétaire et fiscale (attention, subtilités dans les finances locales : faire appel aux experts pour se les faire expliquer) avec une granularité pouvant aller jusqu’au niveau de l’établissement.
 
 Jeux de données proposés (liste non exhaustive) :
-- le fichier de recensement des éléments d’imposition à la fiscalité locale (REI) non anonymisé version CL-2A ;
+- fichiers REI disponibles par millésime (données de fiscalité directe locale : base, taux et produit);
 - jeux de données « entreprises » sur les Charentes mis à disposition par le Bureau GF-2C ;
 - données de l’INSEE.
 
@@ -137,7 +139,7 @@ Sur les bases de fichier des éléments de taxation CFE/IFER communiqué et en s
 Basée sur la géolocalisation, cette application permettra de représenter, de suivre, de valoriser et de prévoir  la meilleure politique fiscale afin d’attirer les secteurs d’activités les plus prometteurs en termes d’emploi et de CFE/IFER envisagés par la collectivité (attention, subtilités dans les finances locales : faire appel aux experts pour se les faire expliquer) avec une granularité pouvant aller jusqu’au niveau de l’établissement.
 
 Jeux de données proposés (liste non exhaustive) :
-- le fichier de recensement des éléments d’imposition à la fiscalité locale (REI) non anonymisé version CL-2A ;
+- fichiers REI disponibles par millésime (données de fiscalité directe locale : base, taux et produit);
 - jeux de données « entreprises » sur les Charentes mis à disposition par le Bureau GF-2C ;
 - données open data de l’INSEE (entreprises sur le territoire, code de l’activité NACE ...)
 ___
@@ -153,7 +155,7 @@ ___
 
 ### B. Inscription
 
-Pour vous inscrire, merci d'envoyer un message à l'adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet "Inscription hackathon DGFiP 2023" et en précisant vos prénoms et noms dans le mail
+Les épreuves se dérouleront en équipe. Aussi, pour vous inscrire, merci d’envoyer un message à l’adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet “Inscription hackathon DGFiP 2023” en précisant les prénoms et noms de chaque membre de l'équipe. Vous pouvez également vous inscrive individuellement, les candidats ainsi inscrits seront réunis dans une équipe que nous constituerons en les mettant ensemble.
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
@@ -509,4 +511,4 @@ ___
 
 # VI. Charte du participant
 
-**Consulter la [Charte du participant](https://github.com/hackathon-dgfip-psl-2023/hackathon-dgfip-psl-2023.github.io/blob/2b683457ae0249f69d27cf92ae5073e03bd280ce/Hackathon_Charte%20du%20participant%202023.pdf)**
+**Consulter la [Charte du participant](https://github.com/hackaton-dgfip-x-2022/hackaton-dgfip-x-2022.github.io/blob/master/Hackathon_Charte du participant 2023?raw=true)**
