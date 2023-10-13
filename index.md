@@ -30,15 +30,15 @@ Contexte:
 
 Les recettes de fonctionnement sont constituées en grande partie des recettes fiscales, mais aussi de recettes non fiscales (dotations État et produits des services et des domaines). Elles sont supportées par différents contributeurs (particuliers, professionnels, État). Elles évoluent par ailleurs dans le temps, notamment en raison des réformes de fiscalité locale (création d’un nouvel impôt, transfert d’un impôt d’une strate de collectivité à une autre, nouvel abattement/exonération) et des offres nouvelles de service public, notamment.
 
-Pour toutes ces raisons, il est important pour les collectivités d’avoir une visibilité sur leur panier de recettes. Cette visibilité permettrait de connaître plus en détail la manière dont est structuré celui-ci et de pouvoir en anticiper l’évolution. Cette visibilité permet ainsi à chaque collectivité de mieux connaître son territoire et de pouvoir adapter sa politique fiscale et non fiscale.
+Pour toutes ces raisons, il est important pour les collectivités d’avoir une visibilité sur leur panier de recettes. Cette visibilité permettrait de connaître plus en détail la manière dont est structuré celui-ci et de pouvoir anticiper l’évolution. Cette visibilité permet ainsi à chaque collectivité de mieux connaître son territoire et de pouvoir adapter sa politique fiscale et non fiscale.
 
-Pour répondre à ce défi, il apparaît pertinent de vous interroger sur les points suivants : quel est le poids de chaque type de recettes dans le total des recettes ? Quel est le poids des compensations (allocation compensatrice) ? Quelle est la part des impôts payés par les particuliers et les professionnels dans le panier des recettes fiscales ? 
+Pour répondre à ce défi, il apparaît pertinent de vous interroger sur les points suivants : quel est le poids de chaque type de recettes dans le total des recettes ? Quel est le poids des compensations (allocations compensatrices) ? Quelle est la part des impôts payés par les particuliers et les professionnels dans le panier des recettes fiscales ? 
 
 Type de collectivités concernées : communes ou EPCI (établissement public de coopération intercommunale) à fiscalité propre.
 
 Commande : 
 
-En utilisant l’outil Tableau, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI) , sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous établirez un outil permettant une visualisation dynamique (structure globale, avec différentes profondeurs de visualisation en fonction du type de recettes et du contributeur) sur la structure du panier de recettes de fonctionnement de chaque commune métropolitaine et ultra-marine, selon sa typologie.
+En utilisant l’outil Tableau, et en vous appuyant sur le fichier de recensement des éléments d’imposition (REI) , sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous établirez un outil permettant une visualisation dynamique (structure globale, avec différentes profondeurs de visualisation en fonction du type de recettes et du contributeur) sur la structure du panier de recettes de fonctionnement de chaque commune métropolitaine et ultra-marine, selon sa typologie.
 
 Jeux de données proposés (liste non exhaustive) :
 
@@ -60,7 +60,7 @@ Le niveau de ces recettes dépend de la politique fiscale mise en œuvre par la 
 
 Périmètre géographique de la commande : France entière
 
-Strates de collectivités concernées : bloc communal : communes et EPCI (établissement public de coopération intercommunale) à fiscalité propre, départements et régions.
+Strates de collectivités concernées : communes et EPCI (établissement public de coopération intercommunale) à fiscalité propre, départements et régions.
 
 Commande : 
 En utilisant l’outil Tableau, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI), sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous construirez un outil permettant à une collectivité de disposer d’une prévision de son panier de recettes.
@@ -68,7 +68,7 @@ Il conviendra de croiser ces données avec d’autres sources de données publiq
 Vous documenterez de manière succincte votre approche en indiquant sur un format A4 : l’approche, les sources de données et les paramètres retenus.
 
 
-Jeux de données proposées (liste non exhaustive) :  
+Jeux de données proposés (liste non exhaustive) :  
 - fichiers REI disponibles par millésime (données de fiscalité directe locale : base, taux et produit) ;
 - balances comptables disponibles par millésime (produits de fiscalité, dotations et produits des services et des domaines) ;
 - dotations État (disponibles sous :http://www.dotations-dgcl.interieur.gouv.fr);
@@ -90,9 +90,9 @@ Collectivités concernées : communes et EPCI (établissement public de coopéra
 
 Commande : 
 
-En utilisant l’outil Tableau et le fichier de recensement des éléments d’imposition (REI), et en vous appuyant sur le site « fiscalité locale des entreprises », vous établirez un outil permettant de comparer les collectivités entre elles (taux, base, exonérations) et de mesurer ainsi l’attractivité de chaque territoire. Cet outil devra s’appuyer sur des data-visualisations sous forme de tableaux de bord d’indicateurs, de représentations graphiques ou de cartographie.
+En utilisant l’outil Tableau et le fichier de recensement des éléments d’imposition (REI), et en vous appuyant sur le site « fiscalité locale des entreprises », vous établirez un outil permettant de comparer les collectivités entre elles (taux, bases, exonérations) et de mesurer ainsi l’attractivité de chaque territoire. Cet outil devra s’appuyer sur des data-visualisations sous forme de tableaux de bord d’indicateurs, de représentations graphiques ou de cartographies.
 
-Vous pourrez croiser ces données avec d’autres données publiques en open data ou jeux de données communiquées pour le hackathon, relatives notamment aux délibérations des collectivités (instituant des exonérations ou abattements facultatives) ou encore aux valeurs locatives des locaux professionnels.
+Vous pourrez croiser ces données avec d’autres données publiques en open data ou jeux de données communiquées pour le hackathon, relatives notamment aux délibérations des collectivités (instituant des exonérations ou abattements facultatifs) ou encore aux valeurs locatives des locaux professionnels.
 
 Vous documenterez de manière succincte votre approche en indiquant sur un format A4 : l’approche, les sources de données, les critères retenus.
 
@@ -103,7 +103,7 @@ Jeux de données proposés (liste non exhaustive) :
 - autres.
 
 
-**Défi 4** - Défi commun CL-GF
+**Défi 4** - Défi commun GP-GF
 
 Contexte : 
 
@@ -126,7 +126,7 @@ Jeux de données proposés (liste non exhaustive) :
 
 Contexte : 
 
-L’attractivité territoriale est, depuis de nombreuses années une préoccupation constante des élus locaux. Elle est devenue en quelques années un terme très utilisé dans les politiques publiques locales, présentée aujourd’hui comme un objectif stratégique incontournable. Les politiques de compétitivité et d’attractivité encouragent chaque territoire à valoriser ses propres atouts pour lesquels les petites collectivités sont souvent désavantagées face à la concurrence des grandes collectivités pour attirer sur leur territoire les entreprises.
+L’attractivité territoriale est depuis de nombreuses années, une préoccupation constante des élus locaux. Elle est devenue en quelques années un terme très utilisé dans les politiques publiques locales, présentée aujourd’hui comme un objectif stratégique incontournable. Les politiques de compétitivité et d’attractivité encouragent chaque territoire à valoriser ses propres atouts pour lesquels les petites collectivités sont souvent désavantagées face à la concurrence des grandes collectivités pour attirer sur leur territoire les entreprises.
 
 Cette volonté peut légitimer de multiples actions publiques des élus locaux impactant leurs orientations budgétaires et fiscales qui, somme toute, peuvent leur sembler obscures voire contre-productives aux résultats escomptés en matière de développement territorial : allégements d’impôts, subventions, augmentation de la fiscalité directe locale des professionnels ou des ménages, création de zone artisanale ou de pôles de compétitivité, création de zone d’activité fiscale allégée, retour sur investissement, quelle politique fiscale et économique pareto optimale choisir ?
 
@@ -134,7 +134,7 @@ Pour définir leurs leviers en matière d’attractivité et de politique d’am
 
 Commande : 
 
-Sur les bases de fichier des éléments de taxation CFE/IFER communiqué et en s’appuyant sur une cartographie des communes attractives du département, vous établirez une version aboutie de l’application Web mise à votre disposition de telle sorte que le produit final présente des fonctionnalités de prospective et de comparaison entre communes permettant à un conseiller aux décideurs locaux de la DGFiP de trouver les leviers les plus optimaux définissant ainsi la meilleure des décisions possibles entre  accroissement de produits budgétaires et fiscaux de la CFE/IFER et attractivité des entreprises.
+Sur les bases du fichier des éléments de taxation CFE/IFER communiqué et en s’appuyant sur une cartographie des communes attractives du département, vous établirez une version aboutie de l’application Web mise à votre disposition de telle sorte que le produit final présente des fonctionnalités de prospective et de comparaison entre communes permettant à un conseiller aux décideurs locaux de la DGFiP de trouver les leviers les plus optimaux définissant ainsi la meilleure des décisions possibles entre  accroissement de produits budgétaires et fiscaux de la CFE/IFER et attractivité des entreprises.
 
 Basée sur la géolocalisation, cette application permettra de représenter, de suivre, de valoriser et de prévoir  la meilleure politique fiscale afin d’attirer les secteurs d’activités les plus prometteurs en termes d’emploi et de CFE/IFER envisagés par la collectivité (attention, subtilités dans les finances locales : faire appel aux experts pour se les faire expliquer) avec une granularité pouvant aller jusqu’au niveau de l’établissement.
 
@@ -249,7 +249,7 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 ___
 
 
-# V. Réglement et Contact   
+# V. Règlement et Contact   
 
 
 ### RÈGLEMENT DE L’APPEL À PROJET HACKATHON DE LA DGFiP - Version au 09 octobre 2023
@@ -261,7 +261,8 @@ L’Appel à Projet Hackathon de la Direction Générale des Finances Publiques 
 
 ### Article 1 – Organisateur :
 
-L’entité organisatrice du présent Appel à Projet Hackathon est la DGFiP du Ministère de l’Économie, des Finances et de la Relance ("MEFR").
+L’entité organisatrice du présent Appel à Projet Hackathon est la Direction générale des finances publiques (DGFiP) du Ministère de l'Economie, des Finances et de la Souveraineté industrielle et numérique.
+
 
 
 ### Article 2 – Objet de l’Appel à Projet Hackathon :
@@ -323,7 +324,7 @@ Dans le cas d'un rendu au format vidéo, il ne devra pas excéder 3 ('trois') mi
 
 *Les participants sont libres de produire s'ils le souhaitent une vidéo et un pdf explicatif.*
 
-Dne documentation technique (ci-après désignée "la documentation technique") au format Markdown ou PDF. Cette documentation technique devra contenir a minima :
+Une documentation technique (ci-après désignée "la documentation technique") au format Markdown ou PDF. Cette documentation technique devra contenir a minima :
 
 - les instructions nécessaires à l'installation et à la reproduction de la solution technique ;
 - une présentation étayée des choix techniques retenus si pertinents ;
@@ -448,7 +449,7 @@ L’autorisation concédée à la DGFiP par le participant au titre de son droit
 
 ### Article 11 – Données à caractère personnel des participants :
 
-Les informations recueillies à partir du courriel d’inscription à l’Appel à Projet Hackathon de la DGFiP font l'objet d'un traitement informatique réalisé par la DGFiP, située au 120 rue de Bercy (75 772 PARIS CEDEX 12), laquelle agit dans le cadre de l’exécution d’une mission relevant de l’exercice de l’autorité publique dont elle est investie.   
+Les informations recueillies à partir du courriel d’inscription à l’Appel à Projet Hackathon de la DGFiP font l'objet d'un traitement informatique réalisé par la DGFiP, située au 139 rue de Bercy (75 772 PARIS CEDEX 12), laquelle agit dans le cadre de l’exécution d’une mission relevant de l’exercice de l’autorité publique dont elle est investie.   
 
 Les données mentionnées pour l’inscription (Nom, Prénom, Adresse mail, Numéro de téléphone, Sujet retenu) sont obligatoires pour le participant ou pour chacun des participants dans le cas d’une inscription collective. À défaut, l’inscription ne saurait être prise en compte.   
 
