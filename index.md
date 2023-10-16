@@ -148,14 +148,16 @@ ___
 
 ### A. Calendrier détaillé
 
-- Inscriptions : 30 octobre 2023 - 22 novembre 2023
-- Webinaire d'informations sur le déroulé des défis : 17 novembre 2023 à 16h
-- Hackathon : 24 et 25 novembre 2023
+
+- Hackathon : vendredi 24 et samedi 25 novembre 2023 (Centre Mazet de la vie étudiante 5 rue André Mazet, 75006 Paris)
 - Délibérations du jury et désignation des gagnants : 25 novembre 2023
+- Inscriptions : Jusqu'au 15 novembre 2023
+- Webinaire d’informations sur le déroulé des défis : vendredi 17 novembre 2023 à 16h
+
 
 ### B. Inscription
 
-Les épreuves se dérouleront en équipe. Aussi, pour vous inscrire, merci d’envoyer un message à l’adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet “Inscription hackathon DGFiP 2023” en précisant les prénoms et noms de chaque membre de l'équipe. Vous pouvez également vous inscrive individuellement, les candidats ainsi inscrits seront réunis dans une équipe que nous constituerons en les mettant ensemble.
+Les épreuves se dérouleront en équipe. Aussi, pour vous inscrire, merci d’envoyer un message à l’adresse suivante => [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr), avec en objet “Inscription hackathon DGFiP 2023” en précisant les prénoms et noms de chaque membre de l’équipe. Vous pouvez également vous inscrive individuellement, les candidats ainsi inscrits seront réunis dans une équipe que nous constituerons en les mettant ensemble.
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
