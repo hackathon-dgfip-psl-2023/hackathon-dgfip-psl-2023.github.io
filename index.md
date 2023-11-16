@@ -38,7 +38,7 @@ Type de collectivités concernées : communes ou EPCI (établissement public de 
 
 Commande : 
 
-En utilisant l’outil Tableau, et en vous appuyant sur le fichier de recensement des éléments d’imposition (REI) , sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous établirez un outil permettant une visualisation dynamique (structure globale, avec différentes profondeurs de visualisation en fonction du type de recettes et du contributeur) sur la structure du panier de recettes de fonctionnement de chaque commune métropolitaine et ultra-marine, selon sa typologie.
+En utilisant l’outil Tableau si vous pouvez, et en vous appuyant sur le fichier de recensement des éléments d’imposition (REI) , sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous établirez un outil permettant une visualisation dynamique (structure globale, avec différentes profondeurs de visualisation en fonction du type de recettes et du contributeur) sur la structure du panier de recettes de fonctionnement de chaque commune métropolitaine et ultra-marine, selon sa typologie.
 
 Jeux de données proposés (liste non exhaustive) :
 
@@ -63,7 +63,7 @@ Périmètre géographique de la commande : France entière
 Strates de collectivités concernées : communes et EPCI (établissement public de coopération intercommunale) à fiscalité propre, départements et régions.
 
 Commande : 
-En utilisant l’outil Tableau, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI), sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous construirez un outil permettant à une collectivité de disposer d’une prévision de son panier de recettes.
+En utilisant l’outil Tableau si vous pouvez, et vous appuyant sur le fichier de recensement des éléments d’imposition (REI), sur les balances comptables mises à votre disposition ainsi que sur les dotations État, vous construirez un outil permettant à une collectivité de disposer d’une prévision de son panier de recettes.
 Il conviendra de croiser ces données avec d’autres sources de données publiques en open data que vous jugerez pertinentes, comme les données socio-économiques des collectivités, des données relatives à la conjoncture économique, etc.
 Vous documenterez de manière succincte votre approche en indiquant sur un format A4 : l’approche, les sources de données et les paramètres retenus.
 
@@ -90,7 +90,7 @@ Collectivités concernées : communes et EPCI (établissement public de coopéra
 
 Commande : 
 
-En utilisant l’outil Tableau et le fichier de recensement des éléments d’imposition (REI), et en vous appuyant sur le site « fiscalité locale des entreprises », vous établirez un outil permettant de comparer les collectivités entre elles (taux, bases, exonérations) et de mesurer ainsi l’attractivité de chaque territoire. Cet outil devra s’appuyer sur des data-visualisations sous forme de tableaux de bord d’indicateurs, de représentations graphiques ou de cartographies.
+En utilisant l’outil Tableau si vous pouvez et le fichier de recensement des éléments d’imposition (REI), et en vous appuyant sur le site « fiscalité locale des entreprises », vous établirez un outil permettant de comparer les collectivités entre elles (taux, bases, exonérations) et de mesurer ainsi l’attractivité de chaque territoire. Cet outil devra s’appuyer sur des data-visualisations sous forme de tableaux de bord d’indicateurs, de représentations graphiques ou de cartographies.
 
 Vous pourrez croiser ces données avec d’autres données publiques en open data ou jeux de données communiquées pour le hackathon, relatives notamment aux délibérations des collectivités (instituant des exonérations ou abattements facultatifs) ou encore aux valeurs locatives des locaux professionnels.
 
@@ -157,7 +157,7 @@ ___
 
 ### B. Inscription
 
-Les épreuves se dérouleront en équipe de 2 à 5. Aussi, pour vous inscrire, merci d’envoyer un message à l’adresse suivante => [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr), avec en objet “Inscription hackathon DGFiP 2023” en précisant les prénoms et noms de chaque membre de l’équipe. Vous pouvez également vous inscrive individuellement, les candidats ainsi inscrits seront réunis dans une équipe que nous constituerons en les mettant ensemble.
+Les épreuves se dérouleront en équipe. Aussi, pour vous inscrire, merci d’envoyer un message à l’adresse suivante => dtnum.communication@dgfip.finances.gouv.fr, avec en objet “Inscription hackathon DGFiP 2023” en précisant les prénoms et noms de chaque membre de l’équipe. Vous pouvez également vous inscrive individuellement, les candidats ainsi inscrits seront réunis dans une équipe que nous constituerons en les mettant ensemble.
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
